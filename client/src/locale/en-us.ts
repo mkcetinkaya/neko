@@ -55,12 +55,12 @@ export const room = {
 }
 
 export const setting = {
-  scroll: 'Scroll Sensitivity',
-  scroll_invert: 'Invert Scroll',
-  autoplay: 'Autoplay Video',
-  ignore_emotes: 'Ignore Emotes',
-  chat_sound: 'Play Chat Sound',
-  keyboard_layout: 'Keyboard Layout',
+  scroll: 'Scroll Sensitivity2',
+  scroll_invert: 'Invert Scroll3',
+  autoplay: 'Autoplay Video4',
+  ignore_emotes: 'Ignore Emotes5',
+  chat_sound: 'Play Chat Sound6',
+  keyboard_layout: 'Keyboard Layout7',
 }
 
 export const connection = {
